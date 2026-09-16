@@ -39,14 +39,14 @@ The dev server runs at `http://localhost:5173`.
 
 ## Available scripts
 
-| Script                 | Purpose                                      |
-| ---------------------- | --------------------------------------------- |
-| `npm run dev`          | Start the local dev server with HMR           |
+| Script                 | Purpose                                             |
+| ---------------------- | --------------------------------------------------- |
+| `npm run dev`          | Start the local dev server with HMR                 |
 | `npm run build`        | Type-check and build a production bundle to `dist/` |
-| `npm run preview`      | Serve the production build locally            |
-| `npm run lint`         | Run ESLint                                    |
-| `npm run format`       | Format the codebase with Prettier             |
-| `npm run format:check` | Check formatting without writing changes      |
+| `npm run preview`      | Serve the production build locally                  |
+| `npm run lint`         | Run ESLint                                          |
+| `npm run format`       | Format the codebase with Prettier                   |
+| `npm run format:check` | Check formatting without writing changes            |
 
 ## Deployment
 
